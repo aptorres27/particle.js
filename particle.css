@@ -1,0 +1,34 @@
+/* ---- reset ---- */
+
+body {
+  margin: 0;
+}
+
+#container {
+  width: auto;
+  height: auto;
+  background-color: black;
+  
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+  width: auto;
+  height: auto;
+  background-color: #000;
+  position: top left;
+  z-index: 1;
+  overflow: hidden;
+
+  
+}
+
+
+
+
+
+
+
+
+
